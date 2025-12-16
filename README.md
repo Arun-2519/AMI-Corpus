@@ -9,7 +9,7 @@ It generates both extractive and abstractive summaries from multi-speaker meetin
 - TF-IDF (Extractive Summarization)
 - FLAN-T5 / BART (Abstractive Summarization)
 
-## 🗂 Dataset
+##  Dataset
 AMI Meeting Corpus (100+ hours of recorded meetings)
 
 ##  Tools & Technologies
